@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Venegas_CalculadoraHexadecimales</string>
+    <string name="calculadora_binario_hexadecimal">Calculadora Binario / Hexadecimal</string>
+    <string name="convertir_a_decimal">Convertir a Decimal</string>
+    <string name="convertir_a_hexadecimal">Convertir a Hexadecimal</string>
+    <string name="textview">TextView</string>
+    <string name="ingrese_un_valor">Ingrese un valor</string>
 </resources>
